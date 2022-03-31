@@ -3,7 +3,9 @@
 Using React, Express, Socket.io
 
 
-Run: cd server 
+Run: 
+
+    cd server 
     npm install
     npm start
 
